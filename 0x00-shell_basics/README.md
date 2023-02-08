@@ -1,1 +1,1 @@
-Display the contents of your current directory in a long format
+mkdir/tmp/my_first_directory
